@@ -66,6 +66,6 @@ To build an effective Natural Language Processing (NLP) pipeline capable of clas
 
 Feel free to connect for collaboration or discussion:
 
-- ✉️ [tmalanka@purdue.edu](mailto:tmalanka@purdue.edu)
-- 🔗 [LinkedIn – Tushar Malankar](https://www.linkedin.com/in/tushar-malankar)
+- ✉️ [sharm991@purdue.edu](mailto:sharm991@purdue.edu)
+- 🔗 [LinkedIn – Himanshu Sharma](https://www.linkedin.com/in/himanshu-sharma9930/)
 
